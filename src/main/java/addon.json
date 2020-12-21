@@ -1,0 +1,9 @@
+{
+  "uuid": "%uuid%",
+  "name": "GermanminerAddon",
+  "mainClass": "de.germanminer.rebell.GermanminerAddon",
+  "description": "Rebells kek plugin... kann aktuell nur fails blocken xD",
+  "version": 1.0,
+  "author": "UnbekannterRebel",
+  "category": 3
+}
